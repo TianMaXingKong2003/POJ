@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-int main()
+int test()
 {
 	
 	int k;
@@ -35,4 +35,10 @@ int main()
 	 		printf("%.20lf\n",y[j]);
 	 }
 	
+}
+int main()
+{
+	char s[100];
+	scanf("%s",s);
+	s=s
 }
