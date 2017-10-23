@@ -147,255 +147,482 @@
 　　17、最长公共子串（LCS）
   
 　　1080 human gene functions，
+  
   1159 palindrome，
+  
   1458 common subsequence，
+  
   2192 zipper
   
 　　18、图论及组合数学
+  
 　　2421 Constructing Roads、
+  
 　　2369 Permutations、
+  
 　　2234 Matches Game、
+  
 　　2243 Knight Moves、
+  
 　　2249 Binomial Showdown、
+  
 　　2255 Tree Recovery、
+  
 　　2084 Game of Connections、
+  
 　　1906 Three powers、
+  
 　　1833 排列、
+  
 　　1850 Code、
+  
 　　1562 Oil Deposits、
+  
 　　1496 Word Index、
+  
 　　1306 Combinations、
+  
 　　1125 Stockbroker Grapevine、
+  
 　　1129 Channel Allocation、
+  
 　　1146 ID Codes、
+  
 　　1095 Trees Made to Order、找规律
+  
 　　2247 Humble Numbers、
+  
 　　2309 BST、
+  
 　　2346 Lucky tickets、
+  
 　　2370 Democracy in danger、
+  
 　　2365 Rope、
+  
 　　2101 Honey and Milk Land
+  
 　　2028 When Can We Meet?、
+  
 　　2084 Game of Connections、
+  
 　　1915 Knight Moves、
+  
 　　1922 Ride to School、
+  
 　　1941 The Sierpinski Fractal、
+  
 　　1953 World Cup Noise、
+  
 　　1958 Strange Towers of Hanoi、
+  
 　　1969 Count on Canton、
+  
 　　1806 Manhattan 2025、
+  
 　　1809 Regetni、
+  
 　　1844 Sum、
+  
 　　1870 Bee Breeding、
+  
 　　1702 Eva\'s Balance、
+  
 　　1728 A flea on a chessboard、
+  
 　　1604 Just the Facts、
+  
 　　1642 Stacking Cubes、
+  
 　　1656 Counting Black、
+  
 　　1657 Distance on Chessboard、
+  
 　　1662 CoIns、
+  
 　　1663 Number Steps、
+  
 　　1313 Booklet Printing、
+  
 　　1316 Self Numbers、
+  
 　　1320 Street Numbers、
+  
 　　1323 Game Prediction、
+  
 　　1338 Ugly Numbers、
+  
 　　1244 Slots of Fun、
+  
 　　1250 Tanning Salon、
+  
 　　1102 LC-Display、
+  
 　　1147 Binary codes、
+  
 　　1013 Counterfeit Dollar、
   
 　　19、博弈类
+  
 　　1067 取石子游戏、
+  
 　　1740 A New Stone Game、
+  
 　　2234 Matches Game、
+  
 　　1082 Calendar Game 、
+  
 　　2348 Euclid\'s Game、
+  
 　　2413 How many Fibs?、
+  
 　　2419 Forest
   
 　　20、简单、模拟题
+  
 　　1001 Exponentiation 、
+  
 　　1002 487-3279、
+  
 　　1003 Hangover 、
+  
 　　1701 Dissatisfying Lift、
+  
 　　2301 Beat the Spread!、
+  
 　　2304 Combination Lock、
+  
 　　2328 Guessing Game、
+  
 　　2403 Hay Points 、
+  
 　　2406 Power Strings、
+  
 　　2339 Rock, Scissors, Paper、
+  
 　　2350 Above Average、
+  
 　　2218 Does This Make Me Look Fat?、
+  
 　　2260 Error Correction、
+  
 　　2262 Goldbach\'s Conjecture、
+  
 　　2272 Bullseye、
+  
 　　2136 Vertical Histogram、
+  
 　　2174 Decoding Task、
+  
 　　2183 Bovine Math Geniuses、
+  
 　　2000 Gold Coins、
+  
 　　2014 Flow Layout、
+  
 　　2051 Argus、
+  
 　　2081 Calendar、
+  
 　　1918 Ranking List、
+  
 　　1922 Ride to School、
+  
 　　1970 The Game、
+  
 　　1972 Dice Stacking、
+  
 　　1974 The Happy Worm、
+  
 　　1978 Hanafuda Shuffle、
+  
 　　1979 Red and Black、
+  
 　　1617 Crypto Columns、
+  
 　　1666 Candy Sharing Game、
+  
 　　1674 Sorting by Swapping、
+  
 　　1503 Integer Inquiry、
+  
 　　1504 Adding Reversed Numbers、
+  
 　　1528 Perfection、
+  
 　　1546 Basically Speaking、
+  
 　　1547 Clay Bully、
+  
 　　1573 Robot Motion、
+  
 　　1575 Easier Done Than Said?、
+  
 　　1581 A Contesting Decision、
+  
 　　1590 Palindromes、
+  
 　　1454 Factorial Frequencies、
+  
 　　1363 Rails、
+  
 　　1218 THE DRUNK JAILER、
+  
 　　1281 MANAGER、
+  
 　　1132 Border、
+  
 　　1028 Web Navigation、
   
 　　21、初等数学
+  
 　　1003 Hangover、
+  
 　　1045 Bode Plot、
+  
 　　1254 Hansel and Grethel、
+  
 　　1269 Intersecting Lines、
+  
 　　1401 Factorial、
+  
 　　1410 Intersection、
+  
 　　2363 Blocks 、
+  
 　　2365 Rope、
+  
 　　2242 The Circumference of the Circle、
+  
 　　2291 Rotten Ropes、
+  
 　　2295 A DP Problem、
+  
 　　2126 Factoring a Polynomial、
+  
 　　2191 Mersenne Composite Numbers、
+  
 　　2196 Specialized Four-Digit Numbers、
+  
 　　1914 Cramer\'s Rule、
+  
 　　1835 宇航员、
+  
 　　1799 Yeehaa!、
+  
 　　1607 Deck、
+  
 　　1244 Slots of Fun、
+  
 　　1269 Intersecting Lines、
+  
 　　1299 Polar Explorer、
+  
 　　1183 反正切函数的应用、
   
 　　22、匹配
+  
 　　1274, 1422, 1469, 1719, 2060, 2239,
+  
 　　23、CD有正气法：其中比较经典的有1000等
+  
 　　-------------------------------------------------------------------------------------------
+  
 经典题目：
+
 　　1011（搜索好题）
+  
 　　1012（学会打表）
+  
 　　1013
+  
 　　1019（它体现了很多此类问题的特点）
+  
 　　1050（绝对经典的dp）
+  
 　　1088（dp好题）
+  
 　　1157（花店，经典的dp）
+  
 　　1163（怎么经典的dp那么多呀？？？）
+  
 　　1328（贪心）
+  
 　　1458（最长公共子序列LCS）
+  
 　　1647（很好的真题，考临场分析准确和下手迅速）
+  
 　　1654（学会多边形面积的三角形求法）
+  
 　　1655（一类无根树的dp问题）
+  
 　　1804（逆序对）
+  
 　　2084（经典组合数学问题）
+  
 　　2187（用凸包求最远点对，求出凸包后应该有O(N)的求法，可我就是调不出来）
+  
 　　2195（二分图的最佳匹配）
+  
 　　2242（计算几何经典）
+  
 　　2295（等式处理）
+  
 　　2353（dp，但要记录最佳路径）
+  
 　　2354（立体解析几何）
+  
 　　2362（搜索好题）
+  
 　　2410（读懂题是关键）
+  
 　　2411（经典dp）
   
 　　趣味
+  
 　　1067（很难的数学，但仔细研究，是一片广阔的领域）
+  
 　　1147（有O(n)的算法，需要思考）
+  
 　　1240（知道一棵树的先序和后序遍历，那么有几种中序遍历呢？dp）
+  
 　　1426（是数论吗？错，是图论！）
+  
 　　1648（别用计算几何，用整点这个特点绕过精度的障碍吧）
+  
 　　1833（找规律）
+  
 　　1844（貌似dp或是搜索，其实是道有趣的数学题）
+  
 　　1922（贪心，哈哈）
+  
 　　2231
+  
 　　2305（不需要高精度噢）
+  
 　　2328（要仔细噢）
+  
 　　2356（数论知识）
+  
 　　2359（约瑟夫问题变种）
+  
 　　2392（有趣的问题）
   
 　　很繁的题
+  
 　　1001
+  
 　　1008
+  
 　　1087（构图很烦，还有二分图的最大匹配）
+  
 　　1128（USACO）
+  
 　　1245
+  
 　　1329
+  
 　　1550（考的是读题和理解能力）
+  
 　　1649（dp）
+  
 　　2200（字符串处理+枚举）
+  
 　　2358（枚举和避免重复都很烦）
+  
 　　2361（仔细仔细再仔细）
   
 　　难题
+  
 　　1014（数学证明比较难，但有那种想法更重要）
+  
 　　1037（比较难的dp）
+  
 　　1405（高精度算法也分有等级之分，不断改进吧）
+  
 　　2002（不知道有没有比O(n^2*logn)更优的算法？）
+  
 　　2054（极难，很强的思考能力）
+  
 　　2085（组合数学）
+  
 　　2414（dp，但要剪枝）
+  
 　　2415（搜索）
+  
 　　2423（计算几何+统计）
   
 　　多解题
+  
 　　1002（可以用排序，也可以用统计的方法）
+  
 　　1338（搜索和dp都可以）
+  
 　　1664（搜索和dp都练一练吧）
+  
 　　2082（这可是我讲的题噢）
+  
 　　2352（桶排和二叉树都行）
+  
 　　Note:
+  
 　　1011: 很经典的剪支
+  
 　　1014: 难在数学上
+  
 　　1017: 严格的数学证明貌似不容易
+  
 　　1021: 有点繁,考察对图形进行各种旋转的处理
+  
 　　1083: 巧妙的思考角度
+  
 　　1150: 分奇偶讨论,lg(n)算法
+  
 　　1218: 三行就够了,虽然简单,但也有优劣之别
+  
 　　1505: 二分加贪心
+  
 　　1654: 做法也许很多吧,本人用有向面积做的
+  
 　　1674: 计算圈的个数(算是graph 吧)
+  
 　　1700: 数学证明不容易
+  
 　　1742: O(m*n)的算法
+  
 　　1863: 要耐心地慢慢写…
+  
 　　1988: 并查集
+  
 　　2051: 堆
+  
 　　2078: 不难，但剪支可以做到很好
+  
 　　2082::O(n),你想到了吗？
+  
 　　2084: 卡特兰数
+  
 　　2182: 线段树
+  
 　　2195: 最小费用最大流
+  
 　　2234: 经典博弈算法
+  
 　　2236: 并查集
+  
 　　2299: 二分思想
+  
 　　2395: Kruskal 最小生成树的拓展
+  
 　　2406: KMP
+  
 　　2411: 用二进制串
   
   
 学习过程
 
 　　OJ上的一些水题(可用来练手和增加自信)
+  
 　　(poj3299,poj2159,poj2739,poj1083,poj2262,poj1503,poj3006,poj2255,poj3094)
   
 初期：
@@ -403,23 +630,36 @@
 　　一.基本算法:
   
 　　(1)枚举. (poj1753,poj2965)
+  
 　　(2)贪心(poj1328,poj2109,poj2586)
+  
 　　(3)递归和分治法.
+  
 　　(4)递推.
+  
 　　(5)构造法.(poj3295)
+  
 　　(6)模拟法.(poj1068,poj2632,poj1573,poj2993,poj2996)
   
 　　二.图算法:
   
 　　(1)图的深度优先遍历和广度优先遍历.
   
-　　(2)最短路径算法(dijkstra,bellman-ford,floyd,heap+dijkstra)
+　　(2)最短路径算法
+  
+  (dijkstra,bellman-ford,floyd,heap+dijkstra)
+  
 　　(poj1860,poj3259,poj1062,poj2253,poj1125,poj2240)
   
-　　(3)最小生成树算法(prim,kruskal)
+　　(3)最小生成树算法
+  
+  (prim,kruskal)
+  
 　　(poj1789,poj2485,poj1258,poj3026)
   
-　　(4)拓扑排序 (poj1094)
+　　(4)拓扑排序 
+  
+  (poj1094)
   
 　　(5)二分图的最大匹配 (匈牙利算法) (poj3041,poj3020)
   
@@ -434,6 +674,7 @@
 　　(3)简单并查集的应用.
   
 　　(4)哈希表和二分查找等高效查找法(数的Hash,串的Hash)
+  
 　　(poj3349,poj3274,POJ2151,poj1840,poj2002,poj2503)
   
 　　(5)哈夫曼树(poj3253)
